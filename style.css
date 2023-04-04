@@ -1,0 +1,41 @@
+input{
+    width: 85%;
+    padding: 7px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 2px dodgerblue;
+    outline:none;
+}
+
+.card{
+    padding: 18px;
+   
+
+}
+
+.card p{
+    border-bottom: 2px solid black;
+     color: black;
+}
+ 
+.middle-text1{
+    text-align: center;
+     margin: auto;
+
+}
+
+i{
+ font-size: 18px;
+ color: white;
+
+   
+}
+
+span{
+    color: black;
+}
+
+.middle-text1 p{
+    text-align:start;
+    font-weight: bolder;
+    padding-left: 70px;
+}
